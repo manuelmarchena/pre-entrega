@@ -1,12 +1,13 @@
 {
-  "name": "pre-entrega",
+  "name": "pre-entrega_backend_nodejs_talentotech-mar2026",
   "version": "1.0.0",
+  "description": "CLI en Node.js para consumir una API de productos",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "keywords": ["Node", "CLI", "API-Rest"],
+  "author": "Manuel Marchena",
+  "license": "ISC"
 }
